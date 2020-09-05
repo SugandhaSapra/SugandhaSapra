@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sugandha Sapra! <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="630">
+<img align='right' src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="150">
 <p><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
