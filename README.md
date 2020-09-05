@@ -16,7 +16,8 @@
 public final class Me {
 
     public final static String CODE_IN = "Java 8";
-    public final static List<String> FAMILIAR_TECHNOLOGIES = getKnownTechnologies();
+    public final static List<String> FAMILIAR_TECHNOLOGIES = 
+    getKnownTechnologies();
     public final static List<String> INTERESTED_IN_ARCHITECTURES = 
     Arrays.asList(
     "Serverless Architecture","Single page applications",
