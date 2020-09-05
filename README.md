@@ -7,11 +7,10 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/sugandha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sugandha-sapra/)](https://www.linkedin.com/in/sugandha-sapra/)
 ![GitHub followers](https://img.shields.io/github/followers/SugandhaSapra?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=SugandhaSapra)
-
 [![Medium Badge](https://img.shields.io/badge/-@sugzsapra-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sugzsapra/)](https://medium.com/@sugzsapra/)
 
 
-### <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="100"> A little more about me...  
+###  A little more about me...  <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="200">
 
 ```java
 public final class Me {
@@ -45,11 +44,12 @@ public final class Me {
 
 
 
-<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120"> <em><b>Technology touches everyone and evrywhere.</b> I am <b>lucky to be a part of that !</b> 😊</em>
-
+<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120"> 
 ```java
 while(alive){
     neverSettleForLessThanMyWorth();
 }
 ```
+<em><b>Technology touches everyone and evrywhere.</b> I am <b>lucky to be a part of that !</b> 😊</em>
+
 
