@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sugandha Sapra! <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="150">
 <p><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,8 +8,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/SugandhaSapra?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=SugandhaSapra)
 
+[![Medium Badge](https://img.shields.io/badge/-@sugzsapra-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sugzsapra/)](https://medium.com/@sugzsapra/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="100"> A little more about me...  
 
 ```java
 public final class Me {
@@ -43,10 +45,11 @@ public final class Me {
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120"> <em><b>Technology touches everyone and evrywhere.</b> I am <b>lucky to be a part of that !</b> 😊</em>
 
-```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```java
+while(alive){
+    neverSettleForLessThanMyWorth();
+}
 ```
 
