@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sugandha Sapra! <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="350">
 <p><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -45,6 +45,7 @@ public final class Me {
 
 
 <img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120"> 
+
 ```java
 while(alive){
     neverSettleForLessThanMyWorth();
