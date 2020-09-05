@@ -46,6 +46,7 @@ public final class Me {
 ```
 
 
+<em><b>Technology touches everyone and evrywhere.</b> I am <b>lucky to be a part of that !</b> 😊</em>
 
 <img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="150" align =right> 
 
@@ -56,6 +57,5 @@ neverSettleForLessThanMyWorth();
 ```
 
 
-<em><b>Technology touches everyone and evrywhere.</b> I am <b>lucky to be a part of that !</b> 😊</em>
 
 
