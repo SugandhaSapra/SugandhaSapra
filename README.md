@@ -44,7 +44,9 @@ public final class Me {
 
 
 
-<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120" align =left> ```java while(alive){   neverSettleForLessThanMyWorth();}```
+<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120" align =left>```java 
+while(alive){   neverSettleForLessThanMyWorth();
+}```
 <em><b>Technology touches everyone and evrywhere.</b> I am <b>lucky to be a part of that !</b> 😊</em>
 
 
