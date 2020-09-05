@@ -1,16 +1,52 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm Sugandha Sapra! <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="630">
+<p><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**SugandhaSapra/SugandhaSapra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/sapra_sugandha?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/sugandha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sugandha-sapra/)](https://www.linkedin.com/in/sugandha-sapra/)
+![GitHub followers](https://img.shields.io/github/followers/SugandhaSapra?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=SugandhaSapra)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```java
+public final class Me {
+
+    public final static String CODE_IN = "Java 8";
+    public final static List<String> FAMILIAR_TECHNOLOGIES = getKnownTechnologies();
+    public final static List<String> INTERESTED_IN_ARCHITECTURE = Arrays.asList("Serverless Architecture","Single page applications","Progressive web applications","microservices");
+
+    public static List<String> getKnownTechnologies() {
+        List<String> backendFrameworks = getBackendFrameworks();
+        List<String> dbs = getKnownDatabases();
+        List<String> devOpsTechs = getDevOpsTechs();
+        return Stream.of(backendFrameworks, dbs, devOpsTechs)
+                .flatMap(Collection::stream)
+                .collect(Collectors.toList());
+    }
+
+    private static List<String> getBackendFrameworks() {
+        return Arrays.asList("Spring Boot", "Hibernate");
+    }
+
+    private static List<String> getKnownDatabases() {
+        return Arrays.asList("MSSQL", "Mysql", "H2");
+    }
+
+    private static List<String> getDevOpsTechs() {
+        return Arrays.asList("Docker🐳", "Heroku", "CircleCI");
+    }
+}
+```
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
