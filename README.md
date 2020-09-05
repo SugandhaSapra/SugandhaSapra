@@ -17,7 +17,8 @@ public final class Me {
 
     public final static String CODE_IN = "Java 8";
     public final static List<String> FAMILIAR_TECHNOLOGIES = getKnownTechnologies();
-    public final static List<String> INTERESTED_IN_ARCHITECTURE = Arrays.asList("Serverless Architecture","Single page applications","Progressive web applications","microservices");
+    public final static List<String> INTERESTED_IN_ARCHITECTURE = 
+    Arrays.asList("Serverless Architecture","Single page applications","Progressive web applications","microservices");
 
     public static List<String> getKnownTechnologies() {
         List<String> backendFrameworks = getBackendFrameworks();
@@ -44,7 +45,7 @@ public final class Me {
 
 
 
-<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="120" align =right> 
+<img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="150" align =right> 
 
 ```java
 while(alive){   
