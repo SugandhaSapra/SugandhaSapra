@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="50">Hellozzz Fellow Coders !!!  I'm Sugandha Sapra! </h2>
+<h2><img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="80">Hellozzz Fellow Coders !!! </h2>
 <img align='right' src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="250">
 <p><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
