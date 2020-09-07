@@ -1,6 +1,6 @@
 <h2><img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="80">Hellozzz Fellow Coders !!! </h2>
 <img align='right' src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="250">
-<p><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>I am <i>Sugandha</i><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sapra_sugandha?label=Follow)
