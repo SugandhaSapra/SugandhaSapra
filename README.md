@@ -1,8 +1,8 @@
 <h2><img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="80">Hellozzz Fellow Coders !!! </h2>
 <img align='right' src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="250">
-<p>I am <i>Sugandha</i><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>I am <i>Sugandha. </i><em>Software Engineer at <a href="https://xebia.com">Xebia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
-
+<p><i>Available at:</i></p>
 ![Twitter Follow](https://img.shields.io/twitter/follow/sapra_sugandha?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/sugandha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sugandha-sapra/)](https://www.linkedin.com/in/sugandha-sapra/)
 ![GitHub followers](https://img.shields.io/github/followers/SugandhaSapra?label=Follow&style=social)
